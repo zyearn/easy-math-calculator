@@ -1,7 +1,9 @@
-# author : zyearn 
+# author: zyearn and his friend
+# date: 2012.02
+# mail: zhujiashun2010@gmail.com
+
 from math import *
 from graphics import *
-
 
 def fxMax(a,b,func):
     x = a
